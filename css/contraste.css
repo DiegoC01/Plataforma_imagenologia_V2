@@ -1,0 +1,134 @@
+/* Contraste */ 
+
+/* El contraste bÃ¡sico es texto Blanco (color="#ffffff") sobre fondo Negro (background-color: #000000;), 
+
+pero puede definirse un contraste como se desee. 
+
+Se recomienda utilizar la propiedad "!important" en cada item, par con ello forzar los nuevos valores.*/
+
+
+
+.contraste h1,.contraste h2,.contraste h3,.contraste h4,.contraste h5,.contraste h6 {
+
+    color: #fff000  !important;
+
+}
+
+
+
+.contraste, 
+
+.contraste header nav#menu-principal ul,
+
+.contraste footer,
+
+.contraste a,
+
+.contraste table,
+
+.contraste div,
+
+.contraste input .form-control,
+
+.contraste .widget-ministerios .lista-ministerios {
+
+    background-color: #000 !important;
+
+}
+
+
+
+.contraste a.boton,
+
+.contraste input,
+
+.contraste textarea,
+
+.contraste ul li,
+
+.contraste .widget-ministerios .trigger,
+
+.contraste .bg-primary,
+
+.contraste .bg-success,
+
+.contraste .bg-info,
+
+.contraste .bg-warning,
+
+.contraste .bg-danger,
+
+.contraste .table>tbody>tr:nth-of-type(odd),
+
+.contraste .pagination>.disabled>a, .pagination>.disabled>a:focus, 
+
+.contraste .pagination>.disabled>a:hover, 
+
+.contraste .pagination>.disabled>span, 
+
+.contraste .pagination>.disabled>span:focus, 
+
+.contraste .pagination>.disabled>span:hover,
+
+.contraste #notas-destacadas .item a,
+
+.contraste #notas-destacadas a.mas,
+
+.contraste .post-header,
+.contraste #rshrsgo {
+
+    background-color: #333 !important;
+
+}
+
+
+
+body.contraste,
+
+.contraste p,
+
+.contraste footer .bottom, 
+
+.contraste ul li,
+
+.contraste div,
+
+.contraste textarea,
+
+.contraste a,
+
+
+.contraste #content #main .stream .tarjeta .texto h4 .anios, 
+
+.contraste #content #main .post .texto .title .anios {
+
+    color: #fff000 !important;
+
+}
+
+.contraste h1, 
+
+.contraste h2, 
+
+.contraste h3, 
+
+.contraste h4, 
+
+.contraste h5, 
+
+.contraste h6, 
+
+.contraste input,
+
+.contraste label,
+
+.contraste address, 
+
+.contraste a 
+
+.contraste textarea{
+
+    color: #fff000 !important;
+
+}
+
